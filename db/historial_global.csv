@@ -1,0 +1,9 @@
+UserID,Ciudad,FechaHora,Temperatura_C,Condicion_Clima,Humedad_Porcentaje,Viento_kmh
+a585bfdb-b48e-42bc-8b57-20f6d6cbe41a,moscu,2026-05-25 14:43:13,17,Patchy rain nearby,52,17
+a585bfdb-b48e-42bc-8b57-20f6d6cbe41a,moscu,2026-05-25 14:43:42,17,Patchy rain nearby,52,17
+a585bfdb-b48e-42bc-8b57-20f6d6cbe41a,buenos aires,2026-05-25 14:44:02,15,Cloudy ,82,4
+a585bfdb-b48e-42bc-8b57-20f6d6cbe41a,buenos aires,2026-05-25 14:52:13,15,Cloudy ,82,4
+a585bfdb-b48e-42bc-8b57-20f6d6cbe41a,moscu,2026-05-25 14:58:55,17,Patchy rain nearby,52,17
+ef1dc160-212e-4644-8420-ac4b6bc86e41,buenos aires,2026-05-25 15:20:10,15,Cloudy ,82,4
+ef1dc160-212e-4644-8420-ac4b6bc86e41,moscu,2026-05-25 15:20:29,15,Patchy rain nearby,55,18
+ef1dc160-212e-4644-8420-ac4b6bc86e41,buenos aires,2026-05-25 15:21:12,15,Cloudy ,82,4
