@@ -53,7 +53,7 @@ Proyecto-tecnologa-ITBA/
 │   └── lib/
 │       ├── storage.py   # Lectura/escritura de CSVs
 │       ├── ia.py        # Integración con Gemini API
-│       └── clima.py     # Script de prueba de la API de clima
+│       └── clima.py     # Script de la API de clima
 ├── db/
 │   ├── users.csv              # Usuarios registrados
 │   └── historial_global.csv   # Historial de consultas de clima

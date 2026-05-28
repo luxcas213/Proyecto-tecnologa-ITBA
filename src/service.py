@@ -40,7 +40,7 @@ def create_user() -> None:
             print(f'  ✗ {e}')
         print('\nPara una contraseña más segura, considerá usar:')
         print('  → Una frase larga con mayúsculas, números y símbolos.')
-        print('  → Ejemplo: "MiPerro#Tiene7Años!"\n')
+        print('  → Ejemplo: "s0lar-VENTANA^lamina#1847"\n')
 
     userid = generate_userid()
     try:
